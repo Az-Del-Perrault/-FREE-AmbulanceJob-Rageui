@@ -2,4 +2,4 @@ discord : https://discord.gg/MQKP43G2Yk preview :
 
 dependencies : ox_inventory
 
-rework et optimisé d'un script séjà existant
+rework et optimisé d'un script déjà existant
